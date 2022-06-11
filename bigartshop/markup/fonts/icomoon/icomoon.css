@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?hde04j');
+  src:  url('fonts/icomoon.eot?hde04j#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?hde04j') format('truetype'),
+    url('fonts/icomoon.woff?hde04j') format('woff'),
+    url('fonts/icomoon.svg?hde04j#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chat:before {
+  content: "\e901";
+}
+.icon-information1:before {
+  content: "\e902";
+}
+.icon-viber:before {
+  content: "\e903";
+}
+.icon-telegram .path1:before {
+  content: "\e904";
+  color: rgb(97, 168, 222);
+}
+.icon-telegram .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-heart:before {
+  content: "\e908";
+}
+.icon-facebook-logo:before {
+  content: "\e909";
+}
+.icon-telegram-logo:before {
+  content: "\e90a";
+}
+.icon-instagram-logo:before {
+  content: "\e90b";
+}
+.icon-livejournal-logo:before {
+  content: "\e90c";
+}
+.icon-odnoklassniki-logo:before {
+  content: "\e90d";
+}
+.icon-twitter-logo:before {
+  content: "\e90e";
+}
+.icon-vk-logo:before {
+  content: "\e90f";
+}
+.icon-youtube-logo:before {
+  content: "\e910";
+}
+.icon-zen-logo:before {
+  content: "\e911";
+}
+.icon-bag:before {
+  content: "\e900";
+}
+.icon-cell-phone:before {
+  content: "\e91b";
+}
+.icon-checked:before {
+  content: "\e91c";
+  color: #f05228;
+}
+.icon-information:before {
+  content: "\e91e";
+}
+.icon-menu:before {
+  content: "\e91f";
+}
+.icon-search:before {
+  content: "\e93d";
+}
+.icon-skype:before {
+  content: "\e93e";
+  color: #00aaf2;
+}
+.icon-whatsapp:before {
+  content: "\e968";
+}
